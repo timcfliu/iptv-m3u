@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTINF:60,CA | Global Toronto - Global Toronto
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CP24
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cp24.cablepulse.24.ca.m3u8
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMq8DNwrxV6TvE0OdvlXYok/ts
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 1 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCs3j2MPwrfJPYQMsjyDG84/ts
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 2 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SP-OQiLTOXQ4QgMA7ayn6-I/ts
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 3 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAMWZFG71mzYqaq5jfzcZZQ/ts
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 4 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMHDlzS-SFTs9S7grg6oQnI/ts
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 5 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMmXlYOFB2CoG99OEIQ62jk/ts
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SI3KNmhS8jno3vdnAlK9654/ts
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CNN CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cnn.ca.m3u8
